@@ -1,0 +1,1 @@
+close the media pictures that are opened in background
